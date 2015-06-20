@@ -16,4 +16,4 @@
 * Regular maintenance of the portal will be carried by volunteer administrators(Alumni Rep) and/or DBC alumni officer or management team
 
 
-
+* Anyone interested in joing the developer group, please contact me: sarahseyoungkwak@gmail.com
