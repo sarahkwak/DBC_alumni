@@ -15,3 +15,6 @@
 * Administrator inputs alumni data so that it can be searched by last name, cohort, location
 * Regular maintenance of the portal will be carried by volunteer administrators(Alumni Rep) and/or DBC alumni officer or management team
 * Anyone interested in joing the developer group, please contact me: sarahseyoungkwak@gmail.com
+
+Wireframe for the main page can be viewed:
+https://wireframe.cc/TyELBR
