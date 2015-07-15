@@ -18,3 +18,6 @@
 
 Wireframe for the main page can be viewed:
 https://wireframe.cc/TyELBR
+
+If you want to join our project, please stop by our project meeting on Tuesday 21, at 11 am (PST)
+https://plus.google.com/hangouts/_/g4bxde3ltpwjwcr442e4zwj6baa
