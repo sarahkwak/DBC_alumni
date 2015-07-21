@@ -21,3 +21,19 @@ https://wireframe.cc/TyELBR
 
 If you want to join our project, please stop by our project meeting on Tuesday 21, at 11 am (PST)
 https://plus.google.com/hangouts/_/g4bxde3ltpwjwcr442e4zwj6baa
+
+
+* Users are able to sign in, authentication through some reputable source, ideally DBC's lauch pad, but short of that, something we all have in common like github or google
+* Users can query the user database to find other alum's across a wide number of searchable fields - name, cohort, location of school (SF, NY, Chicago), current location, programming interests, current employer, past employers, technologies they are strong/proficient/weak (but wanting to learn more) in, current geographic locale
+* Users will be able to gain access to fellow users through a variety of means: email, github acct., phone/text, twitter, blog site, etc.
+* Users will be able to send intra-site messages to one another, chat live via text and/or audio/video capability, 
+* User can easily toggle on and off their level of visability, what info about them is shown, what their availability is, etc. 
+* User can upvote, comment upon, and tag any asset within the application allowing the users to search via tags, order assets by upvotes and leave feedback/carry on conversations regarding a given topic
+* User can visit/post in a DBC alumni forumn that is fully voteable, taggable, and commentable.  Users can add new threads, sections, and topics
+* User can view, click through, and add events on an monthly/weekly events calendar.  Multiple calendars can be maintained for different locales.
+* User can search through a list of ongoing/proposed projects.  Users can review the projects repos and be taken onto the project team.  Users can propose a new project.
+* User can review lists of challenges that are searchable by topic.  Challenges can be set up like DBC github repos similar to phase 0-3 challenges, or any other format that suits them.  User can submit their own challenges.
+* User can link buggy code that they want help fixing/help fix other's code
+* User can review and search by topic a list of learning/career-search/programming resources.  User can submit resources.
+* User can review/search/create user-groups that follow certain topics, participate in group learning, engage in remote coursework together.
+* User can fill out wish lists for site capabilities not currently implemented.
